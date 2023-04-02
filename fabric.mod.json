@@ -1,0 +1,24 @@
+{
+    "schemaVersion": 1,
+    "id": "tbd",
+    "version": "1.0.0",
+    "name": "tbd",
+    "description": "tbd",
+    "authors": [
+        "Willow"
+        "LimeSplatus"
+        "TheWiseDragon"
+    ],
+    "contact": {
+        "homepage": "tbd",
+    },
+    "license": "tbd",
+    "icon": "pack.png",
+    "environment": "*",
+    "entrypoints": {},
+    "mixins": [],
+    "depends": {
+        "fabricloader": ">=0.12.7",
+        "fabric-api-base": "*",
+        "minecraft": ">=1.19.4"
+    },
