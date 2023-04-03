@@ -1,6 +1,6 @@
 # terravista-stardustlabs-compat
 
-Biome icons - 13/85 biomes done
+Biome icons - 14/85 biomes done - 16% complete
 
 Biome descriptions - 0/85 biomes done
 
