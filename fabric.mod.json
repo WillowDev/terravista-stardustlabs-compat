@@ -15,11 +15,7 @@
   "license": "tbd",
   "icon": "pack.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "name.modid"
-    ]
-  },
+  "entrypoints": {},
   "mixins": [],
   "depends": {
     "fabricloader": ">=0.12.7",
