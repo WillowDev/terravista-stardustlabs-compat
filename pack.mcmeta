@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Adds compatibilty for Terravista with Stardust Labs' packs."
+    }
+}
