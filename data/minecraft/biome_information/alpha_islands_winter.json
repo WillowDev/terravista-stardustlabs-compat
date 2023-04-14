@@ -1,1 +1,5 @@
-
+{
+  "image": "minecraft:textures/biome_images/alpha_islands_winter.png",
+  "biome": "terralith:alpha_islands_winter",
+  "items_to_gather": []
+}

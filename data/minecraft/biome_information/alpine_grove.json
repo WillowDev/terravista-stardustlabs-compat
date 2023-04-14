@@ -1,1 +1,5 @@
-
+{
+  "image": "minecraft:textures/biome_images/alpine_grove.png",
+  "biome": "terralith:alpine_grove",
+  "items_to_gather": []
+}
